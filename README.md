@@ -9,6 +9,8 @@
 - 利用算法实现下一步的计算
 
 ### 演示视频
+
+[http://www.iqiyi.com/w_19sb4adyrd.html](http://www.iqiyi.com/w_19sb4adyrd.html)  
 ![](manual/run.gif)  
 
 
